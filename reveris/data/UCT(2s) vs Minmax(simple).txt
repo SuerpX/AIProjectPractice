@@ -1,0 +1,120 @@
+*************UCT(2s) vs Minmax(3 depth).txt*************
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):42, player2(black)22
+result:win, player1(white):53, player2(black)11
+result:win, player1(white):36, player2(black)28
+result:win, player1(white):34, player2(black)30
+result:win, player1(white):47, player2(black)17
+result:win, player1(white):53, player2(black)11
+result:win, player1(white):46, player2(black)18
+result:lost, player1(white):0, player2(black)25
+result:win, player1(white):38, player2(black)26
+result:lost, player1(white):0, player2(black)15
+result:win, player1(white):45, player2(black)19
+result:win, player1(white):42, player2(black)22
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):47, player2(black)16
+result:win, player1(white):46, player2(black)18
+result:win, player1(white):39, player2(black)25
+result:win, player1(white):43, player2(black)21
+result:win, player1(white):45, player2(black)19
+result:win, player1(white):34, player2(black)30
+result:lost, player1(white):1, player2(black)43
+result:win, player1(white):62, player2(black)2
+result:win, player1(white):48, player2(black)16
+result:win, player1(white):43, player2(black)21
+result:win, player1(white):43, player2(black)21
+----------------------------
+wins number:22 out of 25, win radio:0.88, player1(white) average:38.68, player2(black) average:20.96
+----------------------------
+
+*************UCT(2s) vs Minmax(4 depth).txt*************
+result:win, player1(white):44, player2(black)20
+result:win, player1(white):52, player2(black)12
+result:win, player1(white):41, player2(black)23
+result:win, player1(white):41, player2(black)23
+result:win, player1(white):51, player2(black)13
+result:win, player1(white):44, player2(black)20
+result:win, player1(white):37, player2(black)27
+result:win, player1(white):48, player2(black)16
+result:win, player1(white):39, player2(black)25
+result:win, player1(white):44, player2(black)20
+result:win, player1(white):48, player2(black)16
+result:win, player1(white):42, player2(black)22
+result:win, player1(white):37, player2(black)27
+result:win, player1(white):36, player2(black)28
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):46, player2(black)18
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):52, player2(black)12
+result:win, player1(white):41, player2(black)23
+result:win, player1(white):46, player2(black)18
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):34, player2(black)30
+result:lost, player1(white):8, player2(black)46
+result:win, player1(white):43, player2(black)21
+result:win, player1(white):49, player2(black)15
+----------------------------
+wins number:24 out of 25, win radio:0.96, player1(white) average:41.64, player2(black) average:21.96
+----------------------------
+
+*************UCT(2s) vs Minmax(5 depth).txt*************
+result:win, player1(white):55, player2(black)9
+result:win, player1(white):49, player2(black)15
+result:win, player1(white):44, player2(black)20
+result:win, player1(white):42, player2(black)22
+result:win, player1(white):45, player2(black)19
+result:lost, player1(white):13, player2(black)51
+result:win, player1(white):39, player2(black)25
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):33, player2(black)31
+result:win, player1(white):48, player2(black)16
+result:win, player1(white):39, player2(black)25
+result:win, player1(white):41, player2(black)23
+result:win, player1(white):43, player2(black)21
+result:win, player1(white):55, player2(black)7
+result:win, player1(white):34, player2(black)30
+result:lost, player1(white):0, player2(black)25
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):53, player2(black)11
+result:win, player1(white):40, player2(black)24
+result:win, player1(white):36, player2(black)28
+result:win, player1(white):53, player2(black)11
+result:win, player1(white):54, player2(black)10
+result:win, player1(white):43, player2(black)21
+result:win, player1(white):48, player2(black)16
+----------------------------
+wins number:23 out of 25, win radio:0.92, player1(white) average:40.92, player2(black) average:21.44
+----------------------------
+
+*************UCT(2s) vs Minmax(6 depth).txt*************
+result:win, player1(white):38, player2(black)26
+result:lost, player1(white):0, player2(black)21
+result:win, player1(white):39, player2(black)25
+result:win, player1(white):33, player2(black)31
+result:win, player1(white):33, player2(black)31
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):40, player2(black)24
+result:lost, player1(white):26, player2(black)38
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):38, player2(black)26
+result:win, player1(white):38, player2(black)26
+result:lost, player1(white):0, player2(black)13
+result:lost, player1(white):19, player2(black)45
+result:win, player1(white):36, player2(black)28
+result:win, player1(white):40, player2(black)24
+result:lost, player1(white):3, player2(black)36
+result:lost, player1(white):0, player2(black)50
+result:win, player1(white):37, player2(black)27
+result:win, player1(white):45, player2(black)19
+result:win, player1(white):34, player2(black)30
+result:win, player1(white):33, player2(black)31
+result:win, player1(white):49, player2(black)15
+result:lost, player1(white):4, player2(black)60
+result:lost, player1(white):0, player2(black)32
+result:win, player1(white):49, player2(black)15
+----------------------------
+wins number:17 out of 25, win radio:0.68, player1(white) average:28.4, player2(black) average:29.0
+----------------------------
+

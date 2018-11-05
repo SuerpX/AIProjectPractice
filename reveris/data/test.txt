@@ -1,0 +1,9 @@
+result:lost, player1(white):31, player2(black)33
+result:win, player1(white):37, player2(black)27
+result:win, player1(white):35, player2(black)29
+result:win, player1(white):54, player2(black)10
+result:win, player1(white):48, player2(black)16
+----------------------------
+wins number:4 out of 5, win radio:0.8, player1(white) average:41.0, player2(black) average:23.0
+----------------------------
+
